@@ -1,0 +1,12 @@
+*.*
+!.gitattributes
+!.gitignore
+!readme.md
+!.gitkeep
+!*.R
+!*.do
+!*.m
+!*.jl
+!*.mat
+!*.txt
+!Data_IndonesiaPanel.csv

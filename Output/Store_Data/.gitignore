@@ -1,0 +1,14 @@
+*
+!.gitignore
+!*.csv
+!*.rds
+multistep_citation_track2_130.csv
+multistep_panel_out_130.csv
+multistep_parameters130.csv
+multistep_qualitysale_tm1_130_80.csv
+multistep_qualitysale_tm1_130_90.csv
+panel_out_130.csv
+parameters130.csv
+qualitysale_tm1_130_80.csv
+qualitysale_tm1_130_90.csv
+citation_track2_130.csv

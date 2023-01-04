@@ -1,0 +1,17 @@
+*.*
+!.gitattributes
+!.gitignore
+!README.md
+!.gitkeep
+!*.R
+!*.do
+!*.m
+!*.jl
+!*.mat
+*sclerotic.m
+*sclerotic_w5param.m
+*sclerotic_w7param.m
+find_ICERv3_param.m
+loss_ICERv3_param.m
+find_benchmark_param_w5param.m
+loss_benchmark_param_w5param.m
